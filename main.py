@@ -1,6 +1,3 @@
-# jeg antar oppgaven vil at jeg skal programmere løsninger,
-# derfor har jeg valgt å gjør dette
-
 import numpy as py
 from matplotlib import pyplot as plt
 from matplotlib import animation as anim
